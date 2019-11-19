@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+  background-color: black;
+  padding-bottom: 20px;
+  font-family: Arial;
+  font-size:16px;
+  color: white;
+
+}
+body{
+	text-align:-webkit-center;
+	padding-top: 25px;
+}
+input[type=text]{
+	  color:white;	
+      height:200px;
+      width: 400px;
+      padding: 12px 20px;
+      box-sizing: border-box;
+    }
+    .clear_all{
+        clear: both;
+    }
+    h1{
+      font-size: 45px;
+      text-align: center;
+      color:white;
+    }
+    #nhap{
+      margin:0px;
+      padding: 50px;
+      padding-bottom: 10px;
+      border: 2px solid white;
+      width:500px;
+    }
+    #ketqua{
+      color: white;
+      font-size: 16px;
+      text-align: right;
+      margin: 0px 0px 15px 0px;
+      padding:10px;
+      outline: none;
+    }
+    .button{
+      margin: 10px 15px 15px 20px;
+      padding: 10px 10px 10px 10px ;
+      float:left;
+      text-align:center;
+      text-transform: uppercase;
+      background-color: brown;
+      width:40px;
+    }
+    .button:hover{
+    	background-color: pink;
+    }
+    
